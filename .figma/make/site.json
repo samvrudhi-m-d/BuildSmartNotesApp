@@ -1,0 +1,10 @@
+{
+  "description": "Organize everyday notes, tasks, and ideas with search, categories, pinning, and autosave—ideal for keeping personal, college, and work plans in one place.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
